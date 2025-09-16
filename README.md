@@ -122,12 +122,7 @@ dspy_guide/
 
 ---
 
-## 🔮 Next Steps
-1. Learn about **dspy.Teleprompter** for guided model prompting.  
-2. Explore **dspy.datasets** to train and evaluate pipelines.  
-3. Deploy optimized pipelines in production with **dspy.runtime**.
 
----
 
 ## 📜 License
 MIT License © 2025
